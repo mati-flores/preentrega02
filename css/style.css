@@ -285,3 +285,15 @@ h3 {
     padding: 15px 15px 15px 15px;
 
 }
+nav a:hover {
+    background-color: #fab8b8;
+    font-weight: bold;
+    padding: 15px;
+    text-decoration: none;
+} 
+nav a:visited {
+    color: #4b00fa;
+}
+nav a:active{
+    background-color: #f7ebad;
+}
