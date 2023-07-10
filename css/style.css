@@ -40,7 +40,7 @@ header img {
     margin-right: 30px;
 }
 
----------------------------------------------------------- .main {
+.main {
     background-color: #f7ebad;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: oblique;
@@ -226,6 +226,9 @@ main ul {
 .ul-postres li img {
     width: 500px;
     height: 450px;
+}
+.card{
+    width: 31.4rem !important;
 }
 
 .div3 {
